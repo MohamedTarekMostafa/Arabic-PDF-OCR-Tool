@@ -36,6 +36,4 @@ You will need `poppler-utils` installed on your system to handle PDF conversions
 
 
 
-```bash
-pip install -q git+[https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)
-pip install -q torch pillow pdf2image accelerate gradio
+
