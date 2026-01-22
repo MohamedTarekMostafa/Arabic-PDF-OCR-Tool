@@ -25,13 +25,8 @@ You will need `poppler-utils` installed on your system to handle PDF conversions
 * **Linux:** `sudo apt-get install poppler-utils`
 * **Mac:** `brew install poppler`
 
-### 2. Python Libraries
-Install the necessary Python packages:
-```bash
-pip install -q git+[https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)
-pip install -q torch pillow pdf2image accelerate gradio
-```
-### 3.ui
+
+### 2.ui
 <img width="1280" height="571" alt="image" src="https://github.com/user-attachments/assets/7750286b-d4d1-468b-be4b-f784538eedf6" />
 
 
